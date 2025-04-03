@@ -58,25 +58,6 @@ I'm an aspiring Software Engineer skilled in full-stack development with experti
 - Built robust APIs using Java Servlets, reducing back-end response times by 15%
 - Designed user-friendly interfaces for the elderly, improving navigation efficiency
 
-## 🚀 Projects
-
-### AI Chatbot with PDF Integration
-A full-stack chatbot that allows users to interact with uploaded PDF documents using AI.
-- Implemented semantic search with FAISS and real-time responses using Langchain and Gemini
-- **Tech Stack:** Python, FASTAPI, FAISS, Langchain, PostgreSQL, PyMuPDF, ReactJS, Tailwind CSS
-- [View Project](https://github.com/Eahtasham/ai-pdf-chatbot)
-
-### School Management with Communication System
-A full-stack application for managing school operations and Parent-Teacher Communication using Calendly.
-- Designed a user-friendly interface with role-based access and database interactions
-- **Tech Stack:** NextJS, Prisma, PostgreSQL, Clerk, ShadCN Tailwind
-- [View Project](https://github.com/Eahtasham/school-management-system)
-
-### Online Code Editor
-A browser-based code editor for real-time HTML, CSS, and JavaScript testing.
-- Developed an intuitive interface for writing and testing code in real-time
-- **Tech Stack:** HTML, CSS, JavaScript
-- [View Project](https://github.com/Eahtasham/online-code-editor)
 
 ## 🏆 Achievements
 
@@ -98,22 +79,6 @@ A browser-based code editor for real-time HTML, CSS, and JavaScript testing.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eahtasham&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 💼 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/Eahtasham/ai-pdf-chatbot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eahtasham&repo=ai-pdf-chatbot&theme=radical" alt="AI PDF Chatbot" />
-  </a>
-  <a href="https://github.com/Eahtasham/school-management-system">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eahtasham&repo=school-management-system&theme=radical" alt="School Management System" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eahtasham/online-code-editor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Eahtasham&repo=online-code-editor&theme=radical" alt="Online Code Editor" />
-  </a>
-</p>
 
 ## 📈 Activity Graph
 
