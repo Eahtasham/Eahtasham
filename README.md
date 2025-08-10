@@ -75,9 +75,6 @@ I'm an aspiring Software Engineer skilled in full-stack development with experti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eahtasham&theme=radical&hide_border=true" alt="Eahtasham's Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eahtasham&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 ## 📈 Activity Graph
