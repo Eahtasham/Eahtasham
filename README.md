@@ -1,113 +1,115 @@
-# Hi there, I'm Eahtasham Ummam 👋
+# 👋 Hi, I'm Eahtasham Ummam
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eahtasham-ummam/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eahtashamummam@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/eahtashamummam)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/eahtashamummam)
+💻 Full-stack developer focused on building scalable web applications and AI-powered tools.  
+🎯 Experience with **Next.js, React, Node.js, Java MVC, Firebase, Prisma, PostgreSQL, and RAG workflows**.  
+📍 Based in Kolkata, India.
 
-## 💫 About Me
-
-I'm an aspiring Software Engineer skilled in full-stack development with expertise in Next.js, React, Node.js, and API building. I have experience with Java MVC Architecture backend, RAG application development, Gemini AI integration, and database management. I possess a strong grasp of core CS concepts such as OS, Computer Networks, and Algorithms, and I'm passionate about creating scalable and innovative solutions.
-
-- 🔭 I'm currently working on AI-powered applications
-- 🌱 I'm currently learning advanced RAG implementations and AI integrations
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about full-stack development, Next.js, and AI integrations
-- 📫 How to reach me: eahtashamummam@gmail.com
-
-## 🎓 Education
-
-- **Bachelor of Technology** in Computer Science and Engineering (2023 – 2026)  
-  University Of Calcutta, Kolkata, WB | CGPA: 8.86/10 (till 4th semester)
-
-- **Bachelor of Science** in Physics (2020 – 2023)  
-  Shibpur Dinobundhoo Institution (College), University of Calcutta | CGPA: 7.84/10
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-## 👨‍💻 Experience
-
-### Textify AI, Remote | Next.js Intern (Feb 2025 – May 2025)
-- Redesigned the Analytics website using Next.js, reducing page load times by 25% and enhancing user experience
-- Integrated multiple APIs to streamline the chart data flow, boosting the accuracy of the data sorting by 30%
-- Collaborated on Firebase Auth implementations and developed several PoCs
-
-### Indian Council of Medical Research (ICMR), Kolkata | Full Stack Java Developer Intern (Jan 2025 – Jun 2025)
-- Developed dynamic pages for mental health assessments being used by doctors
-- Built robust APIs using Java Servlets, reducing back-end response times by 15%
-- Designed user-friendly interfaces for the elderly, improving navigation efficiency
-
-
-## 🏆 Achievements
-
-- 4-Star Badges in C, Python, and Problem Solving on HackerRank
-- Solved 200+ DSA problems on GeeksforGeeks
-- Developed a cryptocurrency blog, ReadCrypto, using WordPress, attracting 5k+ monthly views
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eahtasham&show_icons=true&theme=radical" alt="Eahtasham's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eahtasham&theme=radical&hide_border=true" alt="Eahtasham's Streak" />
-</p>
-
-
-
-## 📈 Activity Graph
-
-[![Eahtasham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eahtasham&theme=tokyo-night)](https://github.com/Eahtasham/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eahtasham&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
-## 👨‍💻 Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Next.js      ██████████████▓░░░░░░   50.45 % 
-React        ████████▒░░░░░░░░░░░░   25.24 % 
-JavaScript   ███▒░░░░░░░░░░░░░░░░░   12.10 % 
-Java         █▓░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-<!--END_SECTION:waka-->
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eahtasham&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+🔗 **Portfolio:** https://www.eahtasham.xyz/
 
 ---
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
+### 🚀 What I Do
 
-</div>
+- Full-stack development using **Next.js + TypeScript**
+- Backend systems using **Java Servlets, Node.js & PostgreSQL**
+- AI integration with **Gemini API, OpenAI, embeddings, RAG**
+- Authentication using **Firebase, Clerk, OAuth**
+
+---
+
+### 🧠 Current Focus
+
+- Advanced RAG architecture & AI tooling  
+- Production-grade full-stack engineering  
+- Open-source contributions
+
+---
+
+### 🛠️ Tech Stack
+
+
+### 🚀 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?logo=storybook&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-000000?logo=framer&logoColor=blue)
+
+---
+
+### 🛠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Java MVC (Servlets/JSP)](https://img.shields.io/badge/Java%20MVC-ED8B00?logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM%20Integration-412991?logo=openai&logoColor=white)
+
+---
+
+### 🗄 Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+
+---
+
+### ⚙️ Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?logo=subversion&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+### 🤖 AI / RAG / Automation
+![RAG](https://img.shields.io/badge/RAG%20Systems-6A5ACD?logo=ai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-5F4B8B?logo=neural&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+
+---
+
+### 💼 Experience
+
+- **Next.js Developer Intern — Textify AI**  
+- **Full Stack Java Developer Intern — ICMR**
+
+---
+
+### 📌 Notable Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **AI Mock Interview Platform** | Real-time coding + voice AI interviews | Next.js, Clerk, Gemini, PostgreSQL |
+| **School Management Platform** | RBAC dashboards & communication system | Next.js, Prisma, PostgreSQL |
+| **Java Education Management System** | MVC-based academic platform | Java, Servlets, JSP, MySQL |
+| **AI Door Lock (IoT)** | Face recognition security system | Python, OpenCV, Raspberry Pi |
+
+---
+
+### 🏅 Achievements
+
+- 4★ in **C & Problem Solving** on HackerRank  
+- **200+ DSA problems** solved  
+- Built a blog reaching **5K+ monthly views**
+
+---
+
+### 📬 Contact
+
+📧 **Email:** eahtashamummam@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/eahtasham-ummam  
+🐦 **Twitter:** https://x.com/Eahtasham_
+
+---
+
+⭐ If you like my work, feel free to star a repo — it makes GitHub think I'm valuable.
