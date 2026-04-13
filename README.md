@@ -7,7 +7,8 @@
 ✦ Automation tools and AI-driven developer workflows  
 
 🧠 **Stack & Focus**  
-Next.js · React · TypeScript · Node.js · Java · PostgreSQL · Prisma · Firebase  
+Next.js · Golang · Python · TypeScript · Node.js · Java
+PostgreSQL · Prisma · Firebase  
 OpenAI · Gemini · Embeddings · RAG · AI Automation  
 
 💼 **Experience**  
