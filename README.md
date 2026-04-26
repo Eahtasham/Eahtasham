@@ -4,7 +4,7 @@
 ✦ AI-powered applications using LLMs, embeddings, and RAG systems  
 ✦ Scalable full-stack products with modern web technologies  
 ✦ Reliable backend APIs and clean, performant frontend interfaces  
-✦ Automation tools and AI-driven developer workflows  
+✦ Automation tools and AI-driven developer workflows
 
 🧠 **Stack & Focus**  
 Next.js · Golang · Python · TypeScript · Node.js · Java
